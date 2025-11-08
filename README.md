@@ -6,15 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arza-restu-arjuna-087a4b293)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleph_zaa)
 
-</div>
-
 ---
 
 ## 🚀 Sekilas Tentang Saya
 
 Saya adalah seorang **Mahasiswa Informatika]** yang antusias dalam membangun solusi digital yang efisien dan menarik. Saat ini saya fokus pada **Pengembangan Mobile dengan Flutter]**.
-
-> *"Kode harus elegan dan mudah dibaca, seindah fungsionalitasnya."*
 
 ### 💡 Minat & Keahlian
 
@@ -31,15 +27,16 @@ Saya adalah seorang **Mahasiswa Informatika]** yang antusias dalam membangun sol
 
 **Frameworks & Libraries:**
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge"/> <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge"/>
+</div>
 
 ---
 
 ## 🔭 Proyek Unggulan
 
 * ### **[Nama Proyek 1, mis: ReBox Project]**
-    * **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Aplikasi pengelolaan sampah dan pemesanan dengan fitur profil dan notifikasi.]
-    * **Teknologi:** `Flutter` / `Node.js` / `MySQL`
-    * **Link Repo:** [Link Proyek Anda]
+     **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Aplikasi pengelolaan sampah dan pemesanan dengan fitur profil dan notifikasi.]
+     **Teknologi:** `Flutter` / `Node.js` / `MySQL`
+     **Link Repo:** [Link Proyek Anda]
 
 * ### **[Nama Proyek 2, mis: IoT Smart Home]**
     * **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Sistem monitoring suhu rumah menggunakan Raspberry Pi dan Python.]

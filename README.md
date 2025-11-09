@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo Dunia! Saya **Arzaleph** 👋
+# Hello World! I'am **Arzaleph** 👋
 
 [![Tersedia untuk disewa](https://img.shields.io/badge/Status-Buka%20untuk%20Pekerjaan-blue?style=for-the-badge&logo=github)](mailto:arzarestuarjuna@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arza-restu-arjuna-087a4b293)

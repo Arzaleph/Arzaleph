@@ -33,15 +33,13 @@ Saya adalah seorang **Mahasiswa Informatika]** yang antusias dalam membangun sol
 
 ## 🔭 Proyek Unggulan
 
-* ### **[Nama Proyek 1, mis: ReBox Project]**
+* ### **ReBox Project**
      **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Aplikasi pengelolaan sampah dan pemesanan dengan fitur profil dan notifikasi.]
      **Teknologi:** `Flutter` / `Node.js` / `MySQL`
-     **Link Repo:** [Link Proyek Anda]
 
-* ### **[Nama Proyek 2, mis: IoT Smart Home]**
+* ### **IoT Smart Home**
     * **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Sistem monitoring suhu rumah menggunakan Raspberry Pi dan Python.]
     * **Teknologi:** `Python` / `Raspberry Pi` / `AWS IoT`
-    * **Link Repo:** [Link Proyek Anda]
 
 ---
 

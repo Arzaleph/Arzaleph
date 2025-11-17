@@ -1,18 +1,16 @@
 <div align="center">
 
-# Hello World! I'am **Arzaleph** 👋
+# Hello World! I'm **Arzaleph** 
 
 [![Tersedia untuk disewa](https://img.shields.io/badge/Status-Buka%20untuk%20Pekerjaan-blue?style=for-the-badge&logo=github)](mailto:arzarestuarjuna@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arza-restu-arjuna-087a4b293)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleph_zaa)
 
----
-
-## 🚀 Sekilas Tentang Saya
+## Sekilas Tentang Saya
 
 Saya adalah seorang **Mahasiswa Informatika]** yang antusias dalam membangun solusi digital yang efisien dan menarik. Saat ini saya fokus pada **Pengembangan Mobile dengan Flutter]**.
 
-### 💡 Minat & Keahlian
+### Minat & Keahlian
 
 | Kategori | Keahlian | Sedang Dipelajari |
 | :--- | :--- | :--- |
@@ -29,32 +27,12 @@ Saya adalah seorang **Mahasiswa Informatika]** yang antusias dalam membangun sol
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge"/> <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge"/>
 </div>
 
----
-
-## 🔭 Proyek Unggulan
-
-* ### **ReBox Project**
-     **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Aplikasi pengelolaan sampah dan pemesanan dengan fitur profil dan notifikasi.]
-     **Teknologi:** `Flutter` / `Node.js` / `MySQL`
-
-* ### **IoT Smart Home**
-    * **Deskripsi:** [Jelaskan singkat tentang proyek, mis: Sistem monitoring suhu rumah menggunakan Raspberry Pi dan Python.]
-    * **Teknologi:** `Python` / `Raspberry Pi` / `AWS IoT`
-
----
-
 ## 📈 Statistik GitHub Saya
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arzaleph&show_icons=true&theme=buefy" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzaleph&layout=compact&theme=buefy" alt="Top Languages" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arzaleph&theme=buefy" alt="GitHub Streak" />
-</p>
-
----
 
 <div align="center">
   <p>Terima kasih sudah mampir!.</p>
